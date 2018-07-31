@@ -1,14 +1,4 @@
-<?xml version='1.0'?>
-<!--
-This CellML file was generated on 30/10/2007 at 13:49:09 using:
 
-COR (0.9.31.801)
-Copyright 2002-2007 Dr Alan Garny
-http://COR.physiol.ox.ac.uk/ - COR@physiol.ox.ac.uk
-
-CellML 1.0 was used to generate this cellular model
-http://www.CellML.org/
--->
 <model cmeta:id="fenton_karma_1998_BR" name="fenton_karma_1998_BR" xmlns="http://www.cellml.org/cellml/1.0#" xmlns:cellml="http://www.cellml.org/cellml/1.0#" xmlns:cmeta="http://www.cellml.org/metadata/1.0#">
     <units name="ms">
         <unit prefix="milli" units="second"/>
